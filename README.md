@@ -6,7 +6,7 @@ I also work for Operation team(Automate Manual task for CI/CD Environment)\
 I have a lot of knowledge and experience in Linux.
 - 🪄 I am interested in new technologies.
 
-![Rick Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=solarized-dark)
+![Rick Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rick00Kim&show_icons=true&theme=solarized-dark)
 
 <!---
 Rick00Kim/Rick00Kim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
