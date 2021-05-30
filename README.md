@@ -2,7 +2,7 @@
 
 - 👋  Hi, I am @Rick00Kim
 - 🎩  I am working for back-end engineer in Japan.\
-I also work for Operation team(Automate Manual task for CI/CD Environment)\
+I also work for DevOps engineer. \
 I have a lot of knowledge and experience in Linux.
 - 🪄 I am interested in new technologies.
 
