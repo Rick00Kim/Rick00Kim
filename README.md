@@ -5,7 +5,7 @@
 I also work for DevOps engineer. \
 I have a lot of knowledge and experience in Linux.
 - 🪄 I am interested in new technologies.
-- My Tech blog(KR, EN): [Notion page](https://www.notion.so/RICK_Tech_Blog-6e1355dce8264cccbdd9b2e5ba949477)
+- My Tech blog(KR, EN): [Notion page](https://www.notion.so/RICK_Tech_Blog-6e1355dce8264cccbdd9b2e5ba949477), [Github pages](https://rick00kim.github.io/kururu-blog/)
 
 
 ![Rick Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rick00Kim&show_icons=true&theme=solarized-dark) 
