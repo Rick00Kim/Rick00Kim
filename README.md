@@ -1,8 +1,9 @@
 # Rick Kim's Github
 
 - 👋  Hi, I am @Rick00Kim
-- 🎩  I am working for back-end engineer in Japan.\
-I also worked as DevOps engineer. \
+- 🎩  I was worked for back-end engineer 4 years in Japan.\
+I have been worked 2 years in develop team + 2 years in Operation team. \
+And I am recently working as DevOps engineer. \
 I have knowledge and experience in Linux.
 - 🪄 I am interested in new technologies.
 - My Tech blog(KR, EN): [Notion page](https://www.notion.so/RICK_Tech_Blog-6e1355dce8264cccbdd9b2e5ba949477), [Github pages](https://rick00kim.github.io/kururu-blog/)
